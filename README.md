@@ -2,4 +2,4 @@
 
 ---
 
-[ѕример моего тестового задани€](ссылка с домашним заданием  к уроку 2.9)
+[ѕример моего тестового задани€](https://docs.google.com/spreadsheets/d/1_xlVEIFQ6d6jaMHf-W1mB1U_h_h1_-2FUs1Z9yzAZKg/edit#gid=0)
